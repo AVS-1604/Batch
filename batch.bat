@@ -1,0 +1,3 @@
+chkdsk
+
+sfc /scannow
